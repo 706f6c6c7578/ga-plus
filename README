@@ -25,3 +25,7 @@ Usage of ga+:
   -username string 
         NNTP username 
 
+Example usage:
+
+$ ga+ -poster "John Doe" -group alt.test -days 10
+$ ga+ -poster "John Doe <jd@example.com>" -exact -group alt.* -days 0
