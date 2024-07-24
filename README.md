@@ -1,8 +1,8 @@
 # ga-plus
 Get Usenet articles from a specific poster.
 
-$ ga+
-No parameter provided
+$ ga+ 
+No parameter provided 
 
 Usage of ga+:
 
